@@ -61,8 +61,8 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
 <div>
   <h2> My Stats</h2>
   <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=aaron-g-sanchez&show_icons=true&theme=solarized-dark">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-g-sanchez&layout=compact&theme=solarized-dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=aaron-g-sanchez&show_icons=true&theme=solarized-dark">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-g-sanchez&layout=compact&theme=solarized-dark" />
   </div>
 </div>
 
@@ -101,5 +101,4 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   <img src="https://img.shields.io/badge/WCAG-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="" />
 </div>
