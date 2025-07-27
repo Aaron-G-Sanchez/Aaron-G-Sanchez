@@ -1,3 +1,25 @@
+<style>
+  hr {
+    color: white;
+    width: 100%;
+  }
+
+  .container {
+    display: flex;
+  }
+
+  .card {
+    border: 2px solid;
+    border-radius: 25px;
+    /* display: flex;
+    flex-direction: column; */
+    margin: 0 10px 0 10px;
+    padding: 20px;
+    height: 260px;
+  }
+
+</style>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21&height=200&section=header&text=Welcome!&fontSize=80" />
 </p>
@@ -6,6 +28,14 @@
 <p>
 Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Apprentice at Google passionate about building intuitive and accessible applications that solve real-world problems.
 </p>
+
+<div>
+  <h2> My Stats</h2>
+  <div class="container">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=aaron-g-sanchez&show_icons=true&theme=solarized-dark">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-g-sanchez&layout=compact&theme=solarized-dark" />
+  </div>
+</div>
 
 <div>
   <h2>
@@ -43,26 +73,37 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   What I'm Working on
   </h2>
 
-  <p>
-    <a href="https://github.com/Aaron-G-Sanchez/GITHUB-SERVICE">
-      GitHub Issue Tracker
-    </a>
-    - API to monitor issues within GitHub repos for a VSCode Extension.
-  </p>
+  <div class="container" align="center">
+    <div class="card">
+      <a href="https://github.com/Aaron-G-Sanchez/GITHUB-SERVICE">
+        <h3>GitHub Issue Tracker</h3>
+      </a>
+      <hr />
+      <p>API/data pipeline to monitor issues within Github repos for a VSCode Extension.</p>
+      <div>
+        <hr />
+        <p>Tech Stack:</p>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
+      </div>
+    </div>
+    <div class="card">
+        <a href="https://github.com/Aaron-G-Sanchez/LANDING-PAGES">
+        <h3>Landing Pages</h3>
+      </a>
+      <hr />
+      <p>Mock landing pages to continue building my frontend skills using Golang + Templ.</p>
+      <div>
+        <hr />
+        <p>Tech Stack:</p>
+        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+      </div>
+    </div>
 
-  <p>
-    <a href="https://github.com/Aaron-G-Sanchez/LANDING-PAGES">
-      Landing Pages
-    </a>
-    - Mock landing pages to continue building my frontend skills using Golang + Templ.
-  </p>
-</div>
-
-<div>
-  <h2> My Stats</h2>
-  <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=aaron-g-sanchez&show_icons=true&theme=solarized-dark">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-g-sanchez&layout=compact&theme=solarized-dark" />
   </div>
 </div>
 
