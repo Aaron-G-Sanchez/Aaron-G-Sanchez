@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21&height=200&section=header&text=Welcome!&fontSize=80" />
 </p>
 
-<h2 align="center"> Software Engineer | Audio Nerd | Gamer | Burrito Enthusiast </h2>
+<h2 align="center"> Software Engineer | Audio Nerd | Burrito Enthusiast </h2>
 <p>
 Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Apprentice at Google passionate about building intuitive and accessible applications that solve real-world problems.
 </p>
