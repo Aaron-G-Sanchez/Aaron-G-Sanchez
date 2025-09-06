@@ -21,8 +21,7 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   "Whole Foods Market"
   ],
 "fields_of_interest": [
-  "Frontend Engineering",
-  "Web Development",
+  "Software Engineering",
   "Audio Engineering",
   "Machine Learning",
   "Graphic Design"
@@ -48,6 +47,13 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
       GitHub Issue Tracker
     </a>
     - API to monitor issues within GitHub repos for a VSCode Extension.
+  </p>
+
+  <p>
+    <a href="https://github.com/Aaron-G-Sanchez/ISSUES-TRACKER-WEB">
+      GitHub Issue Tracker Web Dashboard
+    </a>
+    - A Web app to interface with the GitHub issue tracker for enhanced project management.
   </p>
 
   <p>
