@@ -25,7 +25,7 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   "Audio Engineering",
   "Machine Learning",
   "Graphic Design"
-  ]
+  ],
 "hobbies": [
   "Gaming",
   "Playing soccer",
