@@ -43,6 +43,13 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   </h2>
 
   <p>
+    <a href="https://github.com/Aaron-G-Sanchez/SPOTIFY-CLI">
+      Spotify CLI
+    </a>
+    - A CLI tool that brings the Spotify commands to the terminal written in Golang.
+  </p>
+
+  <p>
     <a href="https://github.com/Aaron-G-Sanchez/GITHUB-SERVICE">
       GitHub Issue Tracker
     </a>
@@ -54,13 +61,6 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
       GitHub Issue Tracker Web Dashboard
     </a>
     - A Web app to interface with the GitHub issue tracker for enhanced project management.
-  </p>
-
-  <p>
-    <a href="https://github.com/Aaron-G-Sanchez/LANDING-PAGES">
-      Landing Pages
-    </a>
-    - Mock landing pages to continue building my frontend skills using Golang + Templ.
   </p>
 </div>
 
