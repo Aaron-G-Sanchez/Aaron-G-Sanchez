@@ -13,6 +13,7 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   </h2>
 
 ```json
+{
 "name": "Aaron Sanchez",
 "role": "Software Engineer"
 "located_in": "Austin | Texas",
@@ -33,6 +34,7 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   "Building mechanical keyboards",
   "Attempting to learn Neovim"
   ]
+}
 ```
 
 </div>
