@@ -66,13 +66,13 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   </p>
 </div>
 
-<div>
+<!-- <div>
   <h2> My Stats</h2>
   <div align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=aaron-g-sanchez&show_icons=true&theme=solarized-dark">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-g-sanchez&layout=compact&theme=solarized-dark" />
   </div>
-</div>
+</div> -->
 
 <div>
   <h2>
