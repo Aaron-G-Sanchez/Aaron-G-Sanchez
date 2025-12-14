@@ -44,6 +44,13 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   What I'm Working on
   </h2>
 
+   <p>
+    <a href="https://github.com/Aaron-G-Sanchez/SCAFFOLD">
+      S C F F L D
+    </a>
+    - TUI agent to help build web layouts.
+  </p>
+
   <p>
     <a href="https://github.com/Aaron-G-Sanchez/SPOTIFY-CLI">
       Spotify CLI
