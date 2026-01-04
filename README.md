@@ -44,18 +44,18 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   What I'm Working on
   </h2>
 
-   <p>
+  <p>
+    <a href="https://github.com/Aaron-G-Sanchez/UI-DEMOS">
+      UI Demos
+    </a>
+    - A catalog of UI components and experiences.
+  </p>
+
+  <p>
     <a href="https://github.com/Aaron-G-Sanchez/SCAFFOLD">
       S C F F L D
     </a>
     - TUI agent to help build web layouts.
-  </p>
-
-  <p>
-    <a href="https://github.com/Aaron-G-Sanchez/SPOTIFY-CLI">
-      Spotify CLI
-    </a>
-    - A CLI tool that brings the Spotify commands to the terminal written in Golang.
   </p>
 
   <p>
@@ -65,12 +65,6 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
     - API to monitor issues within GitHub repos for a VSCode Extension.
   </p>
 
-  <p>
-    <a href="https://github.com/Aaron-G-Sanchez/ISSUES-TRACKER-WEB">
-      GitHub Issue Tracker Web Dashboard
-    </a>
-    - A Web app to interface with the GitHub issue tracker for enhanced project management.
-  </p>
 </div>
 
 <!-- <div>
