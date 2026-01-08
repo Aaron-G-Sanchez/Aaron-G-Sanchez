@@ -45,8 +45,8 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   </h2>
 
   <p>
-    <a href="https://github.com/Aaron-G-Sanchez/UI-DEMOS">
-      UI Demos
+    <a href="https://github.com/Aaron-G-Sanchez/UI-VAULT">
+      UI Vault
     </a>
     - A catalog of UI components and experiences.
   </p>
