@@ -44,6 +44,13 @@ Hi, I'm Aaron and welcome to my GitHub! I'm a former Software Engineering Appren
   What I'm Working on
   </h2>
 
+   <p>
+    <a href="https://github.com/Aaron-G-Sanchez/DOCKER-MONITOR">
+      Docker Monitor
+    </a>
+    - A Go based docker utility to monitor container metrics.
+  </p>
+
   <p>
     <a href="https://github.com/Aaron-G-Sanchez/UI-VAULT">
       UI Vault
